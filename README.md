@@ -47,9 +47,6 @@
 <img width="5464" height="2556" alt="IMG-20260702-WA0225 (1)" src="https://github.com/user-attachments/assets/a972ee24-cab0-483a-a04f-e760172f5516" />
 
 
-<img width="5464" height="2660" alt="IMG-20260702-WA0224 (1)" src="https://github.com/user-attachments/assets/2c246e64-33b0-4b9f-8560-050eda2eb6c7" />
-
-
 <img width="5464" height="2572" alt="IMG-20260702-WA0239" src="https://github.com/user-attachments/assets/c0f0bcec-7b96-4fdf-b4d1-c1fd35f86bb1" />
 
 
