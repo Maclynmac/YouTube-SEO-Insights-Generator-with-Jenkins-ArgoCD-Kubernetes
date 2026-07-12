@@ -14,3 +14,24 @@
 <li>Modular architecture: Clear separation of UI, extraction, analysis, logging, and deployment logic.</li>
 <li>Monitoring-ready logging: Structured logging support in logger.py for observability and debugging.</li>
 </ul>
+
+<strong>Technologies used:</strong>
+
+<ul>
+  <li>Python: Core language for the application, SEO engine, and data ingestion logic.</li>
+  <li>Streamlit: for the frontend UI</li>
+  <li>OpenAI API: AI-powered analysis for generating tags, audience insights, timestamps, and improvement suggestions.</li>
+  <li>python-dotenv: Environment config management for secure API keys and runtime settings.</li>
+  <li>requests: HTTP integration library used to fetch YouTube metadata and external data sources.</li>
+  <li>Docker: Containerization for packaging the app and making deployments portable.</li>
+  <li>Jenkins: CI/CD automation that builds Docker images, pushes to Docker Hub, and updates deployment manifests.</li>
+  <li>Docker Hub: Container registry to store and version application images built by the pipeline.</li>
+  <li>Kubernetes: Orchestrates the deployed service with scalable pods and production-grade runtime.</li>
+  <li>ArgoCD: GitOps deployment tool that syncs Kubernetes manifests for declarative, repeatable rollouts.</li>
+  <li>kubectl / argocd CLI: Command-line tooling used in the Jenkins pipeline to apply manifests and sync the app.</li>
+  <li>GitHub: Source control and repository integration for code checkout and manifest updates.</li>  
+</ul>
+
+
+
+
