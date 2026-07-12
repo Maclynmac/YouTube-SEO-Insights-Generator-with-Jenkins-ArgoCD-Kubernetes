@@ -50,6 +50,9 @@
 <img width="5464" height="2572" alt="IMG-20260702-WA0239" src="https://github.com/user-attachments/assets/c0f0bcec-7b96-4fdf-b4d1-c1fd35f86bb1" />
 
 
+<strong> CI/CD pipeline using Jenkins and ArgoCD </strong>
+
+
 
 
 
