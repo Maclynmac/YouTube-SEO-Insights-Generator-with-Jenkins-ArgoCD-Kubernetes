@@ -52,6 +52,19 @@
 
 <strong> CI/CD pipeline using Jenkins and ArgoCD </strong>
 
+<img width="5412" height="2672" alt="IMG-20260702-WA0237" src="https://github.com/user-attachments/assets/e272867b-8dae-4c84-bc99-d97b7f5163fe" />
+
+
+<img width="5464" height="2611" alt="IMG-20260702-WA0229" src="https://github.com/user-attachments/assets/6b815c6c-1dfa-49ef-b247-10dda053d73e" />
+
+
+<img width="1366" height="768" alt="IMG-20260702-WA0231(1)" src="https://github.com/user-attachments/assets/443cb654-b625-4411-8cc4-3d82f322236c" />
+
+
+
+
+
+
 
 
 
