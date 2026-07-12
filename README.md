@@ -32,6 +32,24 @@
   <li>GitHub: Source control and repository integration for code checkout and manifest updates.</li>  
 </ul>
 
+# Output
+
+
+<img width="5420" height="2660" alt="IMG-20260702-WA0244" src="https://github.com/user-attachments/assets/962e5acb-40bd-4bba-8b93-a89b6b44a193" />
+
+<img width="5464" height="2615" alt="IMG-20260702-WA0240" src="https://github.com/user-attachments/assets/3adb055a-3595-40d2-8b3a-f352e7636170" />
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
