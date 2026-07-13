@@ -1,4 +1,4 @@
-<strong> Automated YouTube SEO Insights Platform </strong>
+<strong>YouTube SEO Insights Generator with Jenkins, ArgoCD & Kubernetes</strong>
 
 <strong>Features:</strong>
 
